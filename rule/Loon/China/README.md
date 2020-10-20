@@ -7,7 +7,7 @@
 定时爬取互联网上开源的China分流规则，将其进行清洗、去重、合并、优化后，形成单一的分流规则文件，旨在解决引用大量外部规则造成规则重复的问题。
 
 
-最后检查时间：2020-10-19 23:31:58。
+最后检查时间：2020-10-20 09:54:23。
 
 ## 规则统计
 
@@ -43,7 +43,7 @@ China分流规则，与本项目其他分流规则重复情况统计。
 |  [ByteDance](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/ByteDance)    | 4   | [2](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/China/Repeat/ByteDance.list)   |   50.00%  |
 |  [ChinaMedia](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/ChinaMedia)    | 75   | [21](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/China/Repeat/ChinaMedia.list)   |   28.00%  |
 |  [DiDi](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/DiDi)    | 3   | [3](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/China/Repeat/DiDi.list)   |   100.00%  |
-|  [WhiteList](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/WhiteList)    | 35   | [4](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/China/Repeat/WhiteList.list)   |   11.43%  |
+|  [WhiteList](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/WhiteList)    | 21   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/China/Repeat/WhiteList.list)   |   4.76%  |
 |  [PayPal](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/PayPal)    | 5   | [4](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/China/Repeat/PayPal.list)   |   80.00%  |
 |  [Steam](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Steam)    | 16   | [7](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/China/Repeat/Steam.list)   |   43.75%  |
 |  [SteamCN](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/SteamCN)    | 13   | [6](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/China/Repeat/SteamCN.list)   |   46.15%  |

@@ -8,7 +8,7 @@
 
 本分流规则不包含任何知乎去广告规则。可能存在部分误拦截，建议搭配WhiteList分流规则进行修正，将其置于本分流规则之前，并进行放行。
 
-最后检查时间：2020-10-19 23:31:58。
+最后检查时间：2020-10-20 09:54:23。
 
 ## 规则统计
 
@@ -38,7 +38,7 @@
 |  [BlackList](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/BlackList)    | 778   | [10](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/AdvertisingLite/Repeat/BlackList.list)   |   1.29%  |
 |  [China](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/China)    | 598   | [7](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/AdvertisingLite/Repeat/China.list)   |   1.17%  |
 |  [ChinaMedia](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/ChinaMedia)    | 75   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/AdvertisingLite/Repeat/ChinaMedia.list)   |   1.33%  |
-|  [WhiteList](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/WhiteList)    | 35   | [4](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/AdvertisingLite/Repeat/WhiteList.list)   |   11.43%  |
+|  [WhiteList](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/WhiteList)    | 21   | [2](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/AdvertisingLite/Repeat/WhiteList.list)   |   9.52%  |
 |  [YouTube](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/YouTube)    | 14   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/AdvertisingLite/Repeat/YouTube.list)   |   7.14%  |
 |  [Microsoft](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Microsoft)    | 100   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/AdvertisingLite/Repeat/Microsoft.list)   |   1.00%  |
 |  [Niconico](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Niconico)    | 5   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/AdvertisingLite/Repeat/Niconico.list)   |   20.00%  |

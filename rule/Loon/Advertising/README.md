@@ -8,7 +8,7 @@
 
 本分流规则不包含任何知乎去广告规则。可能存在部分误拦截，建议搭配WhiteList分流规则进行修正，将其置于本分流规则之前，并进行放行。
 
-最后检查时间：2020-10-19 23:31:58。
+最后检查时间：2020-10-20 09:54:23。
 
 ## 规则统计
 
@@ -38,7 +38,7 @@
 |  [BlackList](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/BlackList)    | 777   | [24](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Advertising/Repeat/BlackList.list)   |   3.09%  |
 |  [China](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/China)    | 598   | [10](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Advertising/Repeat/China.list)   |   1.67%  |
 |  [ChinaMedia](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/ChinaMedia)    | 75   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Advertising/Repeat/ChinaMedia.list)   |   1.33%  |
-|  [WhiteList](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/WhiteList)    | 35   | [5](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Advertising/Repeat/WhiteList.list)   |   14.29%  |
+|  [WhiteList](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/WhiteList)    | 21   | [3](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Advertising/Repeat/WhiteList.list)   |   14.29%  |
 |  [YouTube](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/YouTube)    | 14   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Advertising/Repeat/YouTube.list)   |   7.14%  |
 |  [Microsoft](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Microsoft)    | 98   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Advertising/Repeat/Microsoft.list)   |   1.02%  |
 |  [Niconico](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Niconico)    | 5   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Advertising/Repeat/Niconico.list)   |   20.00%  |
